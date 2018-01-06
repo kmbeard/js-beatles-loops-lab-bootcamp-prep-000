@@ -1,3 +1,7 @@
-function theBeatlesPlay() {
+function theBeatlesPlay(musicians, instruments) {
+  var newArray = [];
+  for(musicians = ){
+    
+  }
   
 }
